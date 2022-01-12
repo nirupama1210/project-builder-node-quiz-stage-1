@@ -1,8 +1,8 @@
 const quiz = () =>{
     return ({
-        question: "OS computer abbreviation usually means ?",
-        options: ["Order of Significance", "Open Software", "Operating System","Optical Sensor"],
-        answer: "Operating System"
+        question:"Default extension of files in Notepad++?",
+        options:[".txt",".html",".js",".py"],
+        answer:".txt"
     })
 }
 
